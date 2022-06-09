@@ -23,7 +23,8 @@ Please follow the steps to set up the project:
 
 > npm install  
 
-    5.1. If you are using Windows, make sure you have installed windows-build-tools: https://www.microsoft.com/en-us/download/details.aspx?id=48159.  
+    5.1. If you are using Windows, make sure you have installed windows-build-tools: https://www.microsoft.com/en-us/download/details.aspx?id=48159. 
+    
 6. Open the "config.js" class.  
 7. Create an account at https://infura.io.  
     7.1. Create a new project for the "Ethereum" product.  
