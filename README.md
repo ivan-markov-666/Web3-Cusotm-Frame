@@ -16,7 +16,7 @@ For any questions, refer to the original documentation. This framework doesn't h
 Please follow the steps to set up the project:  
 ### Installation process
 1. Clone the repository.  
-2. If you don't have Node.js - download and install it: https://nodejs.org/en/.  
+2. If you don't have Node.js LTS - download and install it: https://nodejs.org/en/.  
 3. Open the project from your IDE (restart the IDE if you opened it before installation of the NodeJS).  
 4. Navigate to the project root folder from the terminal.  
 5. Get all dependencies:  
