@@ -35,13 +35,13 @@ Please follow the steps to set up the project:
 11. Enjoy and use the framework with pleasure!  
 
 ### Software dependencies
-The dependency will be downloaded automatically by NodeJS.  
-Solc@0.8.9 is a package used for the SOL compiler: https://www.npmjs.com/package/solc.  
-Mocha is a testing framework we are using to test the "SOL" functions: https://www.npmjs.com/package/mocha.  
-Ganache is an Ethereum simulator that makes developing Ethereum applications faster, easier, and safer: https://www.npmjs. com/package/ganache. You may need to install windows-build-tools manually.  
-Web3 is the Ethereum JavaScript API used to develop Web3 projects: https://www.npmjs.com/package/web3.  
-@truffle/hdwallet-provider enabled Web3 provider. It is used to sign transactions for addresses derived from 12 or 24 word mnemonic phases: https://www.npmjs.com/package/@truffle/hdwallet-provider.  
-Express is a Fast, unopinionated, minimalist web framework for NodeJS. We are using it for supporting config files: https://www.npmjs.com/package/express.  
+* The dependency will be downloaded automatically by NodeJS.  
+* Solc@0.8.9 is a package used for the SOL compiler: https://www.npmjs.com/package/solc.  
+* Mocha is a testing framework we are using to test the "SOL" functions: https://www.npmjs.com/package/mocha.  
+* Ganache is an Ethereum simulator that makes developing Ethereum applications faster, easier, and safer: https://www.npmjs. com/package/ganache. You may need to install windows-build-tools manually.  
+* Web3 is the Ethereum JavaScript API used to develop Web3 projects: https://www.npmjs.com/package/web3.  
+* @truffle/hdwallet-provider enabled Web3 provider. It is used to sign transactions for addresses derived from 12 or 24 word mnemonic phases: https://www.npmjs.com/package/@truffle/hdwallet-provider.  
+* Express is a Fast, unopinionated, minimalist web framework for NodeJS. We are using it for supporting config files: https://www.npmjs.com/package/express.  
 
 # Build and Test
 To use the frame, you must be familiar with all technologies mentioned in the precondition section.  
