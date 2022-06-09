@@ -1,0 +1,8 @@
+Description: This class must show different commands for working with this frame.
+
+1. For executing the tests, use the following command:
+    > npm run test
+2. For executing specific test case, use the following command:
+    > npm test .\relative\path\of\the\class.js
+3. To run js files use the following command:
+    > node .\relative\path\of\the\class.js

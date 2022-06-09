@@ -1,0 +1,19 @@
+{
+  "name": "web3-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Ivan Markov",
+  "license": "MIT",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.8",
+    "express": "^4.18.1",
+    "ganache": "^7.2.0",
+    "mocha": "^10.0.0",
+    "solc": "^0.8.9",
+    "web3": "^1.7.3"
+  }
+}
