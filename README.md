@@ -21,7 +21,7 @@ Please follow the steps to set up the project:
 4. Navigate to the project root folder from the terminal.  
 5. Get all dependencies:  
 
-> npm install
+> npm install  
     5.1. If you are using Windows, make sure you have installed windows-build-tools: https://www.microsoft.com/en-us/download/details.aspx?id=48159. 
 6. Open the "config.js" class.  
 7. Create an account at https://infura.io.  
