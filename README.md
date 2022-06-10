@@ -15,7 +15,7 @@ For any questions, refer to the original documentation. This framework doesn't h
 # Getting Started
 Please follow the steps to set up the project:  
 ### Installation process
-1. Install Phyton.  
+1. Install Phyton version >=3.6.0.  
 2. Add Phyton directory path to environment variable.
 3. Install "Desktop development with C++" and ".NET desktop build tools" from "Visual Studio Build Tools 2022": https://visualstudio.microsoft.com/downloads/.  
 4. If you don't have Node.js LTS - download and install it: https://nodejs.org/en/.  
