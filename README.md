@@ -30,8 +30,8 @@ Please follow the steps to set up the project:
 10. Create an account at https://infura.io.  
 * Create a new project for the "Ethereum" product.  
 * Use "RINKEBY" endpoint for testing purposes.  
-11. Add the "mnemonic phase" as a string. The "mnemonic phase" is 12 words. If you don't have one, you can create a MetaMask account (MetaMask is a Chrome addon - https://metamask.io). After making the account, you will get the mnemonic phase (Secret Recovery Phrase).  
-* Change MetaMask network to Rinkeby (because this is the test network you will need to use to develop a new "sol" file and test them with test classes).  
+11. Add the "mnemonic phase" as a string to "config.js" class. The "mnemonic phase" is 12 words. If you don't have one, you can create a MetaMask account (MetaMask is a Chrome addon - https://metamask.io). After making the account, you will get the mnemonic phase (Secret Recovery Phrase).  
+* Change MetaMask network to Rinkeby (because this is the test network you will need to use to develop and test new "sol" classes).  
 12. Send testing ETH from https://faucets.chain.link/rinkeby to your MetaMask account (the ETH will be sent to the Rinkeby network because this is only testing ETH).  
 13. Read the readme.rd file to understand how to use the framework.  
 14. Enjoy and use the framework with pleasure!  
