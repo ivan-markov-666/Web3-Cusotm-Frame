@@ -17,7 +17,7 @@ Please follow the steps to set up the project:
 ### Installation process
 1. Install Phyton version >=3.6.0.  
 2. Add Phyton directory path to environment variable.
-3. Install "Desktop development with C++" and ".NET desktop build tools" from "Visual Studio Build Tools 2022": https://visualstudio.microsoft.com/downloads/.  
+3. Install "Desktop development with C++" and ".NET desktop build tools" from "Visual Studio Build Tools 2022": https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2022.  
 4. If you don't have Node.js LTS - download and install it: https://nodejs.org/en/.  
 5. Clone the repository.  
 6. Open the project from Visual Studio (or Visual Studio Code). // restart the IDE if you opened it before installation of the NodeJS.  
