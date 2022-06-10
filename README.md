@@ -15,24 +15,26 @@ For any questions, refer to the original documentation. This framework doesn't h
 # Getting Started
 Please follow the steps to set up the project:  
 ### Installation process
-1. Clone the repository.  
-2. If you don't have Node.js LTS - download and install it: https://nodejs.org/en/.  
-3. Open the project from your IDE (restart the IDE if you opened it before installation of the NodeJS).  
-4. Navigate to the project root folder from the terminal.  
-5. Get all dependencies:  
+1. Install Phyton.  
+2. Add Phyton directory path to environment variable.
+3. Install "Desktop development with C++" and ".NET desktop build tools" from "Visual Studio Build Tools 2022": https://visualstudio.microsoft.com/downloads/.  
+4. If you don't have Node.js LTS - download and install it: https://nodejs.org/en/.  
+5. Clone the repository.  
+6. Open the project from Visual Studio (or Visual Studio Code). // restart the IDE if you opened it before installation of the NodeJS.  
+7. Navigate to the project root folder from the terminal.  
+8. Get all dependencies:  
 
 > npm install  
 
-* If you are using Windows, make sure you have installed windows-build-tools: https://www.microsoft.com/en-us/download/details.aspx?id=48159. 
-6. Open the "config.js" class.  
-7. Create an account at https://infura.io.  
+9. Open the "config.js" class.  
+10. Create an account at https://infura.io.  
 * Create a new project for the "Ethereum" product.  
 * Use "RINKEBY" endpoint for testing purposes.  
-8. Add the "mnemonic phase" as a string. The "mnemonic phase" is 12 words. If you don't have one, you can create a MetaMask account (MetaMask is a Chrome addon - https://metamask.io). After making the account, you will get the mnemonic phase (Secret Recovery Phrase).  
-   8.1. Change MetaMask network to Rinkeby (because this is the test network you will need to use to develop a new "sol" file and test them with test classes).  
-9. Send testing ETH from https://faucets.chain.link/rinkeby to your MetaMask account (the ETH will be sent to the Rinkeby network because this is only testing ETH).  
-10. Read the readme.rd file to understand how to use the framework.  
-11. Enjoy and use the framework with pleasure!  
+11. Add the "mnemonic phase" as a string. The "mnemonic phase" is 12 words. If you don't have one, you can create a MetaMask account (MetaMask is a Chrome addon - https://metamask.io). After making the account, you will get the mnemonic phase (Secret Recovery Phrase).  
+* Change MetaMask network to Rinkeby (because this is the test network you will need to use to develop a new "sol" file and test them with test classes).  
+12. Send testing ETH from https://faucets.chain.link/rinkeby to your MetaMask account (the ETH will be sent to the Rinkeby network because this is only testing ETH).  
+13. Read the readme.rd file to understand how to use the framework.  
+14. Enjoy and use the framework with pleasure!  
 
 ### Software dependencies
 * The dependency will be downloaded automatically by NodeJS.  
