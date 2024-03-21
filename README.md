@@ -16,7 +16,7 @@ For any questions, refer to the original documentation. This framework doesn't h
 Please follow the steps to set up the project:  
 ### Installation process
 1. Install Phyton version >=3.6.0.  
-2. Add Phyton directory path to environment variable.
+2. Add the Phyton directory path to an environment variable.
 3. Install "Desktop development with C++" and ".NET desktop build tools" from "Visual Studio Build Tools 2022": https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2022.  
 4. If you don't have Node.js LTS - download and install it: https://nodejs.org/en/.  
 5. Clone the repository.  
@@ -29,8 +29,8 @@ Please follow the steps to set up the project:
 9. Open the "config.js" class.  
 10. Create an account at https://infura.io.  
 * Create a new project for the "Ethereum" product.  
-* Use "RINKEBY" endpoint for testing purposes.  
-11. Add the "mnemonic phase" as a string to "config.js" class. The "mnemonic phase" is 12 words. If you don't have one, you can create a MetaMask account (MetaMask is a Chrome addon - https://metamask.io). After making the account, you will get the mnemonic phase (Secret Recovery Phrase).  
+* Use the "RINKEBY" endpoint for testing purposes.  
+11. Add the "mnemonic phase" as a string to the "config.js" class. The "mnemonic phase" is 12 words. If you don't have one, you can create a MetaMask account (MetaMask is a Chrome addon - https://metamask.io). After making the account, you will get the mnemonic phase (Secret Recovery Phrase).  
 * Change MetaMask network to Rinkeby (because this is the test network you will need to use to develop and test new "sol" classes).  
 12. Send testing ETH from https://faucets.chain.link/rinkeby to your MetaMask account (the ETH will be sent to the Rinkeby network because this is only testing ETH).  
 13. Read the readme.rd file to understand how to use the framework.  
@@ -42,7 +42,7 @@ Please follow the steps to set up the project:
 * Mocha is a testing framework we are using to test the "SOL" functions: https://www.npmjs.com/package/mocha.  
 * Ganache is an Ethereum simulator that makes developing Ethereum applications faster, easier, and safer: https://www.npmjs. com/package/ganache. You may need to install windows-build-tools manually.  
 * Web3 is the Ethereum JavaScript API used to develop Web3 projects: https://www.npmjs.com/package/web3.  
-* @truffle/hdwallet-provider enabled Web3 provider. It is used to sign transactions for addresses derived from 12 or 24 word mnemonic phases: https://www.npmjs.com/package/@truffle/hdwallet-provider.  
+* @truffle/hdwallet-provider enabled Web3 provider. It is used to sign transactions for addresses derived from 12 or 24-word mnemonic phases: https://www.npmjs.com/package/@truffle/hdwallet-provider.  
 * Express is a Fast, unopinionated, minimalist web framework for NodeJS. We are using it for supporting config files: https://www.npmjs.com/package/express.  
 
 # Build and Test
